@@ -1,0 +1,11 @@
+.product-container{
+    scroll-behavior: smooth;
+}
+
+.Button{
+    background-color: rgba(0, 0, 0, 0.4);
+}
+.Button:hover{
+   background-color: black;
+}
+  
